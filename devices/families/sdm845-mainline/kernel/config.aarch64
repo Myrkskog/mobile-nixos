@@ -4099,7 +4099,7 @@ CONFIG_DRM_KOMEDA=y
 # CONFIG_DRM_VGEM is not set
 # CONFIG_DRM_VKMS is not set
 # CONFIG_DRM_VMWGFX is not set
-# CONFIG_DRM_UDL is not set
+CONFIG_DRM_UDL=m
 # CONFIG_DRM_AST is not set
 # CONFIG_DRM_MGAG200 is not set
 # CONFIG_DRM_QXL is not set
@@ -4345,7 +4345,7 @@ CONFIG_FB=y
 # CONFIG_FB_PM3 is not set
 # CONFIG_FB_CARMINE is not set
 # CONFIG_FB_SMSCUFX is not set
-# CONFIG_FB_UDL is not set
+CONFIG_FB_UDL=m
 # CONFIG_FB_IBM_GXT4500 is not set
 # CONFIG_FB_VIRTUAL is not set
 # CONFIG_FB_METRONOME is not set
